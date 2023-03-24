@@ -1,0 +1,22 @@
+{
+  "title": "TESTSERIE",
+  "description": "no",
+  "artist": "io",
+  "author": "me medesimo",
+  "cover": "https://mangadex.org/img/avatar.png",
+  "chapters": {
+    "99": {
+      "title": "99",
+      "volume": "",
+      "last_updated": "1679662502",
+      "groups": {
+        "WindsOfManga": [
+          "https://www.resub.cloud/Winter(2023)/Spy%20Classroom/Test/002.png",
+          "https://www.resub.cloud/Winter(2023)/Spy%20Classroom/Test/003.png",
+          "https://www.resub.cloud/Winter(2023)/Spy%20Classroom/Test/004.png",
+          "https://www.resub.cloud/Winter(2023)/Spy%20Classroom/Test/005.png"
+        ]
+      }
+    }
+  }
+}
