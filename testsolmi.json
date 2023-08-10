@@ -1,0 +1,32 @@
+{
+  "title": "TESTSERIE",
+  "description": "no",
+  "artist": "io",
+  "author": "me medesimo",
+  "cover": "https://mangadex.org/img/avatar.png",
+  "chapters": {
+    "16": {
+      "title": "",
+      "volume": "",
+      "last_updated": "1679662502",
+      "groups": {
+        "WindsOfManga": [
+          "https://www.resub.cloud/MangaKoFi/Solmi's%20Channel/Capitolo%2016/0.png",
+          "https://www.resub.cloud/MangaKoFi/Solmi's%20Channel/Capitolo%2016/1.png",
+          "https://www.resub.cloud/MangaKoFi/Solmi's%20Channel/Capitolo%2016/2.png",
+          "https://www.resub.cloud/MangaKoFi/Solmi's%20Channel/Capitolo%2016/3.png",
+          "https://www.resub.cloud/MangaKoFi/Solmi's%20Channel/Capitolo%2016/4.png",
+          "https://www.resub.cloud/MangaKoFi/Solmi's%20Channel/Capitolo%2016/5.png",
+          "https://www.resub.cloud/MangaKoFi/Solmi's%20Channel/Capitolo%2016/6.png",
+          "https://www.resub.cloud/MangaKoFi/Solmi's%20Channel/Capitolo%2016/7.png",
+          "https://www.resub.cloud/MangaKoFi/Solmi's%20Channel/Capitolo%2016/8.png",
+          "https://www.resub.cloud/MangaKoFi/Solmi's%20Channel/Capitolo%2016/9.png",
+          "https://www.resub.cloud/MangaKoFi/Solmi's%20Channel/Capitolo%2016/10.png",
+          "https://www.resub.cloud/MangaKoFi/Solmi's%20Channel/Capitolo%2016/11.png",
+          "https://www.resub.cloud/MangaKoFi/Solmi's%20Channel/Capitolo%2016/12.png",
+          "https://www.resub.cloud/MangaKoFi/Solmi's%20Channel/Capitolo%2016/13.png"
+        ]
+      }
+    }
+  }
+}
