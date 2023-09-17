@@ -1,8 +1,70 @@
 {
   "title": "Isekai Ojisan",
   "description": "",
-  "artist": "",
-  "author": "",
-  "cover": "",
-  "chapters": {}
+  "artist": "Hotondo Shindeiru",
+  "author": "Hotondo Shindeiru",
+  "cover": "https://mangadex.org/covers/d8f1d7da-8bb1-407b-8be3-10ac2894d3c6/47be51ea-0b69-4370-a3e7-8ad3602268a3.jpg",
+  "chapters": {
+    "5": {
+      "title": "5",
+      "volume": "1",
+      "last_updated": "1694961190",
+      "groups": {
+        "": [
+          "https://www.resub.cloud/MangaKoFi/Isekai%20ojisan/ch5/0.png",
+          "https://www.resub.cloud/MangaKoFi/Isekai%20ojisan/ch5/1.png",
+          "https://www.resub.cloud/MangaKoFi/Isekai%20ojisan/ch5/2.png",
+          "https://www.resub.cloud/MangaKoFi/Isekai%20ojisan/ch5/3.png",
+          "https://www.resub.cloud/MangaKoFi/Isekai%20ojisan/ch5/4.png",
+          "https://www.resub.cloud/MangaKoFi/Isekai%20ojisan/ch5/5.png",
+          "https://www.resub.cloud/MangaKoFi/Isekai%20ojisan/ch5/6.png",
+          "https://www.resub.cloud/MangaKoFi/Isekai%20ojisan/ch5/7.png",
+          "https://www.resub.cloud/MangaKoFi/Isekai%20ojisan/ch5/8.png",
+          "https://www.resub.cloud/MangaKoFi/Isekai%20ojisan/ch5/9.png",
+          "https://www.resub.cloud/MangaKoFi/Isekai%20ojisan/ch5/10.png",
+          "https://www.resub.cloud/MangaKoFi/Isekai%20ojisan/ch5/11.png",
+          "https://www.resub.cloud/MangaKoFi/Isekai%20ojisan/ch5/12.png",
+          "https://www.resub.cloud/MangaKoFi/Isekai%20ojisan/ch5/13.png",
+          "https://www.resub.cloud/MangaKoFi/Isekai%20ojisan/ch5/14.png",
+          "https://www.resub.cloud/MangaKoFi/Isekai%20ojisan/ch5/15.png",
+          "https://www.resub.cloud/MangaKoFi/Isekai%20ojisan/ch5/16.png",
+          "https://www.resub.cloud/MangaKoFi/Isekai%20ojisan/ch5/17.png",
+          "https://www.resub.cloud/MangaKoFi/Isekai%20ojisan/ch5/18.png",
+          "https://www.resub.cloud/MangaKoFi/Isekai%20ojisan/ch5/19.png",
+          "https://www.resub.cloud/MangaKoFi/Isekai%20ojisan/ch5/20.png",
+          "https://www.resub.cloud/MangaKoFi/Isekai%20ojisan/ch5/21.png"
+        ]
+      }
+    },
+    "6": {
+      "title": "6",
+      "volume": "1",
+      "last_updated": "1694961193",
+      "groups": {
+        "": [
+          "https://www.resub.cloud/MangaKoFi/Isekai%20ojisan/ch6/0.png",
+          "https://www.resub.cloud/MangaKoFi/Isekai%20ojisan/ch6/1.png",
+          "https://www.resub.cloud/MangaKoFi/Isekai%20ojisan/ch6/2.png",
+          "https://www.resub.cloud/MangaKoFi/Isekai%20ojisan/ch6/3.png",
+          "https://www.resub.cloud/MangaKoFi/Isekai%20ojisan/ch6/4.png",
+          "https://www.resub.cloud/MangaKoFi/Isekai%20ojisan/ch6/5.png",
+          "https://www.resub.cloud/MangaKoFi/Isekai%20ojisan/ch6/6.png",
+          "https://www.resub.cloud/MangaKoFi/Isekai%20ojisan/ch6/7.png",
+          "https://www.resub.cloud/MangaKoFi/Isekai%20ojisan/ch6/8.png",
+          "https://www.resub.cloud/MangaKoFi/Isekai%20ojisan/ch6/9.png",
+          "https://www.resub.cloud/MangaKoFi/Isekai%20ojisan/ch6/10.png",
+          "https://www.resub.cloud/MangaKoFi/Isekai%20ojisan/ch6/11.png",
+          "https://www.resub.cloud/MangaKoFi/Isekai%20ojisan/ch6/12.png",
+          "https://www.resub.cloud/MangaKoFi/Isekai%20ojisan/ch6/13.png",
+          "https://www.resub.cloud/MangaKoFi/Isekai%20ojisan/ch6/14.png",
+          "https://www.resub.cloud/MangaKoFi/Isekai%20ojisan/ch6/15.png",
+          "https://www.resub.cloud/MangaKoFi/Isekai%20ojisan/ch6/16.png",
+          "https://www.resub.cloud/MangaKoFi/Isekai%20ojisan/ch6/17.png",
+          "https://www.resub.cloud/MangaKoFi/Isekai%20ojisan/ch6/18.png",
+          "https://www.resub.cloud/MangaKoFi/Isekai%20ojisan/ch6/19.png",
+          "https://www.resub.cloud/MangaKoFi/Isekai%20ojisan/ch6/20.png"
+        ]
+      }
+    }
+  }
 }
