@@ -7,7 +7,7 @@
   "chapters": {
     "12": {
       "title": "12",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1694016175",
       "groups": {
         "WindsOf": [
@@ -34,7 +34,7 @@
     },
     "13": {
       "title": "13",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1694016242",
       "groups": {
         "WindsOf": [
@@ -62,7 +62,7 @@
     },
     "14": {
       "title": "14",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1694016272",
       "groups": {
         "WindsOf": [
@@ -87,7 +87,7 @@
     },
     "15": {
       "title": "15",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1694016311",
       "groups": {
         "WindsOf": [
@@ -113,7 +113,7 @@
     },
     "16": {
       "title": "16",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1694278964",
       "groups": {
         "WindsOf": [
@@ -138,7 +138,7 @@
     },
     "17": {
       "title": "17",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1695049940",
       "groups": {
         "WindsOf": [
@@ -164,7 +164,7 @@
     },
     "18": {
       "title": "18",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1696175827",
       "groups": {
         "WindsOfManga": [
@@ -193,7 +193,7 @@
     },
     "19": {
       "title": "19",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1696175831",
       "groups": {
         "WindsOfManga": [
@@ -223,7 +223,7 @@
     },
     "20": {
       "title": "20",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1696175835",
       "groups": {
         "WindsOfManga": [
@@ -249,6 +249,38 @@
           "https://www.resub.cloud/MangaKoFi/Learning%20The%20Hard%20Way/ch20/20.png",
           "https://www.resub.cloud/MangaKoFi/Learning%20The%20Hard%20Way/ch20/21.png",
           "https://www.resub.cloud/MangaKoFi/Learning%20The%20Hard%20Way/ch20/22.png"
+        ]
+      }
+    },
+    "21": {
+      "title": "21",
+      "volume": "1",
+      "last_updated": "1696711687",
+      "groups": {
+        "WindsOfManga": [
+          "https://www.resub.cloud/MangaKoFi/Learning%20The%20Hard%20Way/ch21/0.png",
+          "https://www.resub.cloud/MangaKoFi/Learning%20The%20Hard%20Way/ch21/2.png",
+          "https://www.resub.cloud/MangaKoFi/Learning%20The%20Hard%20Way/ch21/3.png",
+          "https://www.resub.cloud/MangaKoFi/Learning%20The%20Hard%20Way/ch21/4.png",
+          "https://www.resub.cloud/MangaKoFi/Learning%20The%20Hard%20Way/ch21/5.png",
+          "https://www.resub.cloud/MangaKoFi/Learning%20The%20Hard%20Way/ch21/6.png",
+          "https://www.resub.cloud/MangaKoFi/Learning%20The%20Hard%20Way/ch21/7.png",
+          "https://www.resub.cloud/MangaKoFi/Learning%20The%20Hard%20Way/ch21/8.png",
+          "https://www.resub.cloud/MangaKoFi/Learning%20The%20Hard%20Way/ch21/9.png",
+          "https://www.resub.cloud/MangaKoFi/Learning%20The%20Hard%20Way/ch21/10.png",
+          "https://www.resub.cloud/MangaKoFi/Learning%20The%20Hard%20Way/ch21/11.png",
+          "https://www.resub.cloud/MangaKoFi/Learning%20The%20Hard%20Way/ch21/12.png",
+          "https://www.resub.cloud/MangaKoFi/Learning%20The%20Hard%20Way/ch21/13.png",
+          "https://www.resub.cloud/MangaKoFi/Learning%20The%20Hard%20Way/ch21/14.png",
+          "https://www.resub.cloud/MangaKoFi/Learning%20The%20Hard%20Way/ch21/15.png",
+          "https://www.resub.cloud/MangaKoFi/Learning%20The%20Hard%20Way/ch21/16.png",
+          "https://www.resub.cloud/MangaKoFi/Learning%20The%20Hard%20Way/ch21/17.png",
+          "https://www.resub.cloud/MangaKoFi/Learning%20The%20Hard%20Way/ch21/18.png",
+          "https://www.resub.cloud/MangaKoFi/Learning%20The%20Hard%20Way/ch21/19.png",
+          "https://www.resub.cloud/MangaKoFi/Learning%20The%20Hard%20Way/ch21/20.png",
+          "https://www.resub.cloud/MangaKoFi/Learning%20The%20Hard%20Way/ch21/21.png",
+          "https://www.resub.cloud/MangaKoFi/Learning%20The%20Hard%20Way/ch21/22.png",
+          "https://www.resub.cloud/MangaKoFi/Learning%20The%20Hard%20Way/ch21/23.png"
         ]
       }
     }
