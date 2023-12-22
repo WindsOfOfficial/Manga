@@ -1,0 +1,103 @@
+{
+  "title": "Something Like A Cat",
+  "description": "",
+  "artist": "Karma Toki",
+  "author": "Karma Toki",
+  "cover": "https://mangadex.org/covers/a5bfed68-8f57-4399-8765-aced075c95d7/968d5ab5-48e5-40c8-a626-f2e10b59767f.png",
+  "chapters": {
+    "0": {
+      "title": "0",
+      "volume": "",
+      "last_updated": "1703244426",
+      "groups": {
+        "": [
+          "https://www.resub.cloud/MangaKoFi/Something%20Like%20A%20Cat/ch0/0.png",
+          "https://www.resub.cloud/MangaKoFi/Something%20Like%20A%20Cat/ch0/1.png",
+          "https://www.resub.cloud/MangaKoFi/Something%20Like%20A%20Cat/ch0/2.png",
+          "https://www.resub.cloud/MangaKoFi/Something%20Like%20A%20Cat/ch0/3.png",
+          "https://www.resub.cloud/MangaKoFi/Something%20Like%20A%20Cat/ch0/4.png"
+        ]
+      }
+    },
+    "1": {
+      "title": "Quando guardi nell'abisso, l'abisso guarda te",
+      "volume": "",
+      "last_updated": "1703244574",
+      "groups": {
+        "": [
+          "https://www.resub.cloud/MangaKoFi/Something%20Like%20A%20Cat/ch1/0.png",
+          "https://www.resub.cloud/MangaKoFi/Something%20Like%20A%20Cat/ch1/1.png",
+          "https://www.resub.cloud/MangaKoFi/Something%20Like%20A%20Cat/ch1/2.png",
+          "https://www.resub.cloud/MangaKoFi/Something%20Like%20A%20Cat/ch1/3.png",
+          "https://www.resub.cloud/MangaKoFi/Something%20Like%20A%20Cat/ch1/4.png",
+          "https://www.resub.cloud/MangaKoFi/Something%20Like%20A%20Cat/ch1/5.png"
+        ]
+      }
+    },
+    "2": {
+      "title": "Quando l'ho realizzato, l'abisso mi stava già osservando",
+      "volume": "",
+      "last_updated": "1703244577",
+      "groups": {
+        "": [
+          "https://www.resub.cloud/MangaKoFi/Something%20Like%20A%20Cat/ch2/0.png",
+          "https://www.resub.cloud/MangaKoFi/Something%20Like%20A%20Cat/ch2/1.png",
+          "https://www.resub.cloud/MangaKoFi/Something%20Like%20A%20Cat/ch2/2.png",
+          "https://www.resub.cloud/MangaKoFi/Something%20Like%20A%20Cat/ch2/3.png",
+          "https://www.resub.cloud/MangaKoFi/Something%20Like%20A%20Cat/ch2/4.png",
+          "https://www.resub.cloud/MangaKoFi/Something%20Like%20A%20Cat/ch2/5.png"
+        ]
+      }
+    },
+    "3": {
+      "title": "Lui odia l'acqua",
+      "volume": "",
+      "last_updated": "1703244579",
+      "groups": {
+        "": [
+          "https://www.resub.cloud/MangaKoFi/Something%20Like%20A%20Cat/ch3/0.png",
+          "https://www.resub.cloud/MangaKoFi/Something%20Like%20A%20Cat/ch3/1.png",
+          "https://www.resub.cloud/MangaKoFi/Something%20Like%20A%20Cat/ch3/2.png",
+          "https://www.resub.cloud/MangaKoFi/Something%20Like%20A%20Cat/ch3/3.png",
+          "https://www.resub.cloud/MangaKoFi/Something%20Like%20A%20Cat/ch3/4.png"
+        ]
+      }
+    },
+    "4": {
+      "title": "Questa è pazzia",
+      "volume": "",
+      "last_updated": "1703244583",
+      "groups": {
+        "": [
+          "https://www.resub.cloud/MangaKoFi/Something%20Like%20A%20Cat/ch4/0.png",
+          "https://www.resub.cloud/MangaKoFi/Something%20Like%20A%20Cat/ch4/1.png",
+          "https://www.resub.cloud/MangaKoFi/Something%20Like%20A%20Cat/ch4/2.png",
+          "https://www.resub.cloud/MangaKoFi/Something%20Like%20A%20Cat/ch4/3.png",
+          "https://www.resub.cloud/MangaKoFi/Something%20Like%20A%20Cat/ch4/4.png",
+          "https://www.resub.cloud/MangaKoFi/Something%20Like%20A%20Cat/ch4/5.png",
+          "https://www.resub.cloud/MangaKoFi/Something%20Like%20A%20Cat/ch4/6.png"
+        ]
+      }
+    },
+    "5": {
+      "title": "All'inizio credevo fosse qualcosa",
+      "volume": "",
+      "last_updated": "1703244586",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "6": {
+      "title": "Collare",
+      "volume": "",
+      "last_updated": "1703244589",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    }
+  }
+}
