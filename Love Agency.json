@@ -7,7 +7,7 @@
   "chapters": {
     "13": {
       "title": "Il club dei manga",
-      "volume": "",
+      "volume": "2",
       "last_updated": "1717522250",
       "groups": {
         "WindsOfManga": [
@@ -35,7 +35,7 @@
     },
     "14": {
       "title": "L'illusione della griglia",
-      "volume": "",
+      "volume": "2",
       "last_updated": "1717522263",
       "groups": {
         "WindsOfManga": [
@@ -63,7 +63,7 @@
     },
     "15": {
       "title": "punto di controllo",
-      "volume": "",
+      "volume": "2",
       "last_updated": "1717522265",
       "groups": {
         "WindsOfManga": [
@@ -91,7 +91,7 @@
     },
     "16": {
       "title": "Strategia d'amore",
-      "volume": "",
+      "volume": "2",
       "last_updated": "1717522267",
       "groups": {
         "WindsOfManga": [
@@ -119,7 +119,7 @@
     },
     "17": {
       "title": "Storia d'amore",
-      "volume": "",
+      "volume": "2",
       "last_updated": "1717522270",
       "groups": {
         "WindsOfManga": [
@@ -142,6 +142,56 @@
           "https://www.resub.cloud/MangaKoFi/Love%20Agency/ch17/16.png",
           "https://www.resub.cloud/MangaKoFi/Love%20Agency/ch17/17.png",
           "https://www.resub.cloud/MangaKoFi/Love%20Agency/ch17/18.png",
+          ""
+        ]
+      }
+    },
+    "18": {
+      "title": "18",
+      "volume": "",
+      "last_updated": "1720260174",
+      "groups": {
+        "WindsOfManga": [
+          ""
+        ]
+      }
+    },
+    "19": {
+      "title": "19",
+      "volume": "",
+      "last_updated": "1720260178",
+      "groups": {
+        "WindsOfManga": [
+          ""
+        ]
+      }
+    },
+    "20": {
+      "title": "20",
+      "volume": "",
+      "last_updated": "1720260180",
+      "groups": {
+        "WindsOfManga": [
+          ""
+        ]
+      }
+    },
+    "21": {
+      "title": "21",
+      "volume": "",
+      "last_updated": "1720260182",
+      "groups": {
+        "WindsOfManga": [
+          ""
+        ]
+      }
+    },
+    "22": {
+      "title": "22",
+      "volume": "",
+      "last_updated": "1720260183",
+      "groups": {
+        "WindsOfManga": [
           ""
         ]
       }
