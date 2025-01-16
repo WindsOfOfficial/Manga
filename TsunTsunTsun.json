@@ -1,0 +1,42 @@
+{
+  "title": "TsunTsunTsun",
+  "description": "",
+  "artist": "Yaki Tomato",
+  "author": "Yaki Tomato",
+  "cover": "https://mangadex.org/covers/129c90ca-b997-4789-a748-e8765bc67a65/bd5e1721-3a5b-4760-b7d7-ef1818002108.jpg",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1737044301",
+      "groups": {
+        "WindsOfManga": [
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch1/0.png",
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch1/1.png"
+        ]
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "1",
+      "last_updated": "1737044337",
+      "groups": {
+        "WindsOfManga": [
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch2/0.png",
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch2/1.png"
+        ]
+      }
+    },
+    "3": {
+      "title": "3",
+      "volume": "1",
+      "last_updated": "1737044343",
+      "groups": {
+        "WindsOfManga": [
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch3/0.png",
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch3/1.png"
+        ]
+      }
+    }
+  }
+}
