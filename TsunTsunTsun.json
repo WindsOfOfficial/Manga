@@ -84,6 +84,29 @@
         ]
       }
     },
+    "12": {
+      "title": "12",
+      "volume": "1",
+      "last_updated": "1743089210",
+      "groups": {
+        "WindsOfManga": [
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch12/0.png",
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch12/1.png"
+        ]
+      }
+    },
+    "20": {
+      "title": "20",
+      "volume": "1",
+      "last_updated": "1743089610",
+      "groups": {
+        "WindsOfManga": [
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch20/0.png",
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch20/1.png",
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch20/2.png"
+        ]
+      }
+    },
     "7.1": {
       "title": "7.1",
       "volume": "1",
@@ -172,6 +195,277 @@
         "WindsOfManga": [
           "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch9.3/0.png",
           "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch9.3/1.png"
+        ]
+      }
+    },
+    "11.1": {
+      "title": "11.1",
+      "volume": "1",
+      "last_updated": "1743089172",
+      "groups": {
+        "WindsOfManga": [
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch11.1/0.png",
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch11.1/1.png",
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch11.1/2.png"
+        ]
+      }
+    },
+    "11.2": {
+      "title": "11.2",
+      "volume": "1",
+      "last_updated": "1743089188",
+      "groups": {
+        "WindsOfManga": [
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch11.2/0.png",
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch11.2/1.png",
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch11.2/2.png"
+        ]
+      }
+    },
+    "13.1": {
+      "title": "13.1",
+      "volume": "1",
+      "last_updated": "1743089252",
+      "groups": {
+        "WindsOfManga": [
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch13.1/0.png",
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch13.2/1.png",
+          ""
+        ]
+      }
+    },
+    "13.2": {
+      "title": "13.2",
+      "volume": "1",
+      "last_updated": "1743089270",
+      "groups": {
+        "WindsOfManga": [
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch13.2/0.png",
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch13.2/1.png",
+          ""
+        ]
+      }
+    },
+    "13.3": {
+      "title": "13.3",
+      "volume": "1",
+      "last_updated": "1743089287",
+      "groups": {
+        "WindsOfManga": [
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch13.3/0.png",
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch13.3/1.png",
+          ""
+        ]
+      }
+    },
+    "14.1": {
+      "title": "14.1",
+      "volume": "1",
+      "last_updated": "1743089309",
+      "groups": {
+        "WindsOfManga": [
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch14.1/0.png",
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch14.1/1.png",
+          ""
+        ]
+      }
+    },
+    "14.2": {
+      "title": "14.2",
+      "volume": "1",
+      "last_updated": "1743089314",
+      "groups": {
+        "WindsOfManga": [
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch14.2/0.png",
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch14.2/1.png",
+          ""
+        ]
+      }
+    },
+    "15.1": {
+      "title": "15.1",
+      "volume": "1",
+      "last_updated": "1743089349",
+      "groups": {
+        "WindsOfManga": [
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch15.1/0.png",
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch15.1/1.png",
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch15.1/2.png",
+          "",
+          ""
+        ]
+      }
+    },
+    "1.2": {
+      "title": "1.2",
+      "volume": "1",
+      "last_updated": "1743089377",
+      "groups": {
+        "WindsOfManga": [
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch15.2/0.png",
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch15.2/1.png",
+          ""
+        ]
+      }
+    },
+    "15.2": {
+      "title": "15.2",
+      "volume": "1",
+      "last_updated": "1743089401",
+      "groups": {
+        "WindsOfManga": [
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch15.2/0.png",
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch15.2/1.png",
+          ""
+        ]
+      }
+    },
+    "15.3": {
+      "title": "15.3",
+      "volume": "1",
+      "last_updated": "1743089420",
+      "groups": {
+        "WindsOfManga": [
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch15.3/0.png",
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch15.3/1.png",
+          ""
+        ]
+      }
+    },
+    "15.4": {
+      "title": "15.4",
+      "volume": "1",
+      "last_updated": "1743089436",
+      "groups": {
+        "WindsOfManga": [
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch15.4/0.png",
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch15.4/1.png",
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch15.4/2.png",
+          ""
+        ]
+      }
+    },
+    "16.1": {
+      "title": "16.1",
+      "volume": "1",
+      "last_updated": "1743089445",
+      "groups": {
+        "WindsOfManga": [
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch16.1/0.png",
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch16.1/1.png",
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch16.1/2.png",
+          ""
+        ]
+      }
+    },
+    "16.2": {
+      "title": "16.2",
+      "volume": "1",
+      "last_updated": "1743089465",
+      "groups": {
+        "WindsOfManga": [
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch16.2/0.png",
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch16.2/1.png",
+          ""
+        ]
+      }
+    },
+    "16.5": {
+      "title": "16.5",
+      "volume": "1",
+      "last_updated": "1743089508",
+      "groups": {
+        "WindsOfManga": [
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch16.5/0.png",
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch16.5/1.png",
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch16.5/2.png",
+          ""
+        ]
+      }
+    },
+    "17.1": {
+      "title": "17.1",
+      "volume": "1",
+      "last_updated": "1743089527",
+      "groups": {
+        "WindsOfManga": [
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch17.1/0.png",
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch17.1/1.png",
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch17.1/2.png",
+          ""
+        ]
+      }
+    },
+    "17.2": {
+      "title": "17.2",
+      "volume": "1",
+      "last_updated": "1743089537",
+      "groups": {
+        "WindsOfManga": [
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch17.2/0.png",
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch17.2/1.png",
+          ""
+        ]
+      }
+    },
+    "18.1": {
+      "title": "18.1",
+      "volume": "1",
+      "last_updated": "1743089549",
+      "groups": {
+        "WindsOfManga": [
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch18.1/0.png",
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch18.1/1.png",
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch18.1/2.png",
+          ""
+        ]
+      }
+    },
+    "18.2": {
+      "title": "18.2",
+      "volume": "1",
+      "last_updated": "1743089564",
+      "groups": {
+        "WindsOfManga": [
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch18.2/0.png",
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch18.2/1.png",
+          ""
+        ]
+      }
+    },
+    "19.1": {
+      "title": "19.1",
+      "volume": "1",
+      "last_updated": "1743089583",
+      "groups": {
+        "WindsOfManga": [
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch19.1/0.png",
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch19.1/1.png",
+          ""
+        ]
+      }
+    },
+    "19.2": {
+      "title": "19.2",
+      "volume": "1",
+      "last_updated": "1743089594",
+      "groups": {
+        "WindsOfManga": [
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch19.2/0.png",
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch19.2/1.png",
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch19.2/2.png"
+        ]
+      }
+    },
+    "20.5": {
+      "title": "20.5",
+      "volume": "1",
+      "last_updated": "1743089636",
+      "groups": {
+        "WindsOfManga": [
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch20.5/0.png",
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch20.5/1.png",
+          "https://www.windsofresub.cloud/MangaKoFi/TsunTsunTsun/ch20.5/2.png"
         ]
       }
     }
