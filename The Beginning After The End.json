@@ -1277,8 +1277,8 @@
     },
     "221": {
       "title": "221",
-      "volume": "",
-      "last_updated": "1749981077",
+      "volume": "7",
+      "last_updated": 1794756393,
       "groups": {
         "WindsOfManga": [
           "https://www.windsofresub.cloud/MangaKoFi/The%20Beginning%20After%20The%20End/221/1.png",
@@ -1301,6 +1301,28 @@
           "https://www.windsofresub.cloud/MangaKoFi/The%20Beginning%20After%20The%20End/221/18.png",
           "https://www.windsofresub.cloud/MangaKoFi/The%20Beginning%20After%20The%20End/221/19.png",
           "https://www.windsofresub.cloud/MangaKoFi/The%20Beginning%20After%20The%20End/221/20.png"
+        ],
+        "WindsOf": [
+          "https://www.windsofresub.cloud/MangaKoFi/The%20Beginning%20After%20The%20End/ch221/001.png",
+          "https://www.windsofresub.cloud/MangaKoFi/The%20Beginning%20After%20The%20End/ch221/002.png",
+          "https://www.windsofresub.cloud/MangaKoFi/The%20Beginning%20After%20The%20End/ch221/003.png",
+          "https://www.windsofresub.cloud/MangaKoFi/The%20Beginning%20After%20The%20End/ch221/004.png",
+          "https://www.windsofresub.cloud/MangaKoFi/The%20Beginning%20After%20The%20End/ch221/005.png",
+          "https://www.windsofresub.cloud/MangaKoFi/The%20Beginning%20After%20The%20End/ch221/006.png",
+          "https://www.windsofresub.cloud/MangaKoFi/The%20Beginning%20After%20The%20End/ch221/007.png",
+          "https://www.windsofresub.cloud/MangaKoFi/The%20Beginning%20After%20The%20End/ch221/008.png",
+          "https://www.windsofresub.cloud/MangaKoFi/The%20Beginning%20After%20The%20End/ch221/009.png",
+          "https://www.windsofresub.cloud/MangaKoFi/The%20Beginning%20After%20The%20End/ch221/010.png",
+          "https://www.windsofresub.cloud/MangaKoFi/The%20Beginning%20After%20The%20End/ch221/011.png",
+          "https://www.windsofresub.cloud/MangaKoFi/The%20Beginning%20After%20The%20End/ch221/012.png",
+          "https://www.windsofresub.cloud/MangaKoFi/The%20Beginning%20After%20The%20End/ch221/013.png",
+          "https://www.windsofresub.cloud/MangaKoFi/The%20Beginning%20After%20The%20End/ch221/014.png",
+          "https://www.windsofresub.cloud/MangaKoFi/The%20Beginning%20After%20The%20End/ch221/015.png",
+          "https://www.windsofresub.cloud/MangaKoFi/The%20Beginning%20After%20The%20End/ch221/016.png",
+          "https://www.windsofresub.cloud/MangaKoFi/The%20Beginning%20After%20The%20End/ch221/017.png",
+          "https://www.windsofresub.cloud/MangaKoFi/The%20Beginning%20After%20The%20End/ch221/018.png",
+          "https://www.windsofresub.cloud/MangaKoFi/The%20Beginning%20After%20The%20End/ch221/019.png",
+          "https://www.windsofresub.cloud/MangaKoFi/The%20Beginning%20After%20The%20End/ch221/020.png"
         ]
       }
     },
@@ -1561,5 +1583,5 @@
       }
     }
   },
-  "last_updated": 1794755961
+  "last_updated": 1794756393
 }
