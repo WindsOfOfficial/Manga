@@ -3,7 +3,6 @@
   "description": "",
   "artist": "",
   "author": "",
-  "cover": "",
   "chapters": {
     "33": {
       "title": "33",
@@ -405,7 +404,7 @@
     "47": {
       "title": "47",
       "volume": "",
-      "last_updated": "1779496704",
+      "last_updated": 1795023061,
       "groups": {
         "": [
           "https://www.windsofresub.cloud/MangaKoFi/Revenge%20of%20the%20Baskerville%20Bloodhound/47/00.png",
@@ -425,8 +424,28 @@
           "https://www.windsofresub.cloud/MangaKoFi/Revenge%20of%20the%20Baskerville%20Bloodhound/47/14.png",
           "https://www.windsofresub.cloud/MangaKoFi/Revenge%20of%20the%20Baskerville%20Bloodhound/47/15.png",
           "https://www.windsofresub.cloud/MangaKoFi/Revenge%20of%20the%20Baskerville%20Bloodhound/47/16.png"
+        ],
+        "WindsOf": [
+          "https://www.windsofresub.cloud/MangaKoFi/Revenge%20of%20the%20Baskerville%20Bloodhound/ch47/01.png",
+          "https://www.windsofresub.cloud/MangaKoFi/Revenge%20of%20the%20Baskerville%20Bloodhound/ch47/02.png",
+          "https://www.windsofresub.cloud/MangaKoFi/Revenge%20of%20the%20Baskerville%20Bloodhound/ch47/03.png",
+          "https://www.windsofresub.cloud/MangaKoFi/Revenge%20of%20the%20Baskerville%20Bloodhound/ch47/04.png",
+          "https://www.windsofresub.cloud/MangaKoFi/Revenge%20of%20the%20Baskerville%20Bloodhound/ch47/05.png",
+          "https://www.windsofresub.cloud/MangaKoFi/Revenge%20of%20the%20Baskerville%20Bloodhound/ch47/06.png",
+          "https://www.windsofresub.cloud/MangaKoFi/Revenge%20of%20the%20Baskerville%20Bloodhound/ch47/07.png",
+          "https://www.windsofresub.cloud/MangaKoFi/Revenge%20of%20the%20Baskerville%20Bloodhound/ch47/08.png",
+          "https://www.windsofresub.cloud/MangaKoFi/Revenge%20of%20the%20Baskerville%20Bloodhound/ch47/09.png",
+          "https://www.windsofresub.cloud/MangaKoFi/Revenge%20of%20the%20Baskerville%20Bloodhound/ch47/10.png",
+          "https://www.windsofresub.cloud/MangaKoFi/Revenge%20of%20the%20Baskerville%20Bloodhound/ch47/11.png",
+          "https://www.windsofresub.cloud/MangaKoFi/Revenge%20of%20the%20Baskerville%20Bloodhound/ch47/12.png",
+          "https://www.windsofresub.cloud/MangaKoFi/Revenge%20of%20the%20Baskerville%20Bloodhound/ch47/13.png",
+          "https://www.windsofresub.cloud/MangaKoFi/Revenge%20of%20the%20Baskerville%20Bloodhound/ch47/14.png",
+          "https://www.windsofresub.cloud/MangaKoFi/Revenge%20of%20the%20Baskerville%20Bloodhound/ch47/15.png",
+          "https://www.windsofresub.cloud/MangaKoFi/Revenge%20of%20the%20Baskerville%20Bloodhound/ch47/16.png",
+          "https://www.windsofresub.cloud/MangaKoFi/Revenge%20of%20the%20Baskerville%20Bloodhound/ch47/17.png"
         ]
       }
     }
-  }
+  },
+  "last_updated": 1795023061
 }
